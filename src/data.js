@@ -2535,6 +2535,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Marc Backes',
+    description:
+      'Full-Stack Web Dev 💻 · MEVN stack · Freelancer 🚀 · Traveler 🌎 · Happily married ❤️ · Polyglot 🇬🇧🇪🇸🇩🇪🇱🇺🇫🇷',
+    url: 'https://marc.dev/uses',
+    twitter: '@_marcba',
+    emoji: '🍕',
+    country: '🇱🇺',
+    computer: 'apple',
+    phone: 'apple',
+    tags: [
+      'Web Development',
+      'Full Stack',
+      'Vue',
+      'Node',
+      'MongoDB',
+    ],
+  },
+  {
     name: 'Bezael Pérez',
     description: 'Front-end Developer passionate. Trainer & speaker',
     url: 'https://dominicode.com/uses',
